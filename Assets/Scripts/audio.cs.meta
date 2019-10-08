@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: aa4e8d3e6549a7c40a0e43b7e11e5397
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AudioSource: {instanceID: 0}
+  - RoBlox: {fileID: 8300000, guid: 4bb3ceab37965574baff454f6082ffc6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
